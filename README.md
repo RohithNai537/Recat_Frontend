@@ -1,17 +1,17 @@
-### 🚀 Search Pro - Advanced search with intelligent caching
+### 🚀 **Search Pro - Advanced search with intelligent caching**
 ---
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="./public/react_dashboard.png" alt="React Dashboard Preview" width="600" />
+  <img src="./public/react_dashboard.png" alt="React Dashboard Preview" width="800" />
 </p>
 
 ---
 
 ## 🔗 Live Demo
 
-🌍 [Live Deployment](https://recat-frontend-adkm7vv78-mulinti-rohith-naidus-projects.vercel.app)
+🌍 [Live Deployment](https://recat-frontend-jz6jk6hml-mulinti-rohith-naidus-projects.vercel.app/)
 
 ---
 
@@ -38,17 +38,7 @@ Built with modern tools for speed and scalability:
 
 ---
 
-## 💾 Dummy Data Sample
 
-```json
-[
-  { "id": 1, "name": "React Query" },
-  { "id": 2, "name": "React Hooks" },
-  ...
-  { "id": 60, "name": "Tailwind CSS Interview Questions" }
-]
-
----
 # 🧑‍💻 How to Run Locally
 
 You’ll need **Node.js** and **npm** installed. We recommend using [nvm](https://github.com/nvm-sh/nvm).
@@ -57,18 +47,17 @@ You’ll need **Node.js** and **npm** installed. We recommend using [nvm](https:
 
 ## 🖥️ Local Setup
 
-```bash
 # 1️⃣ Clone the repo
-git clone <YOUR_GIT_URL>
+'git clone https://github.com/RohithNai537/Recat_Frontend.git`
 
 # 2️⃣ Navigate into the project
-cd <YOUR_PROJECT_NAME>
+`cd React_Frontend`
 
 # 3️⃣ Install dependencies
-npm install
+`npm install`
 
 # 4️⃣ Start dev server
-npm run dev
+'npm run dev`
 
 
 
@@ -124,4 +113,16 @@ Contributions welcome! 🙌
 **Name:** Mulinti Rohith Naidu 
 **Email:** mulintirohan159@gmail.com
 **Project:** Frontend -Autofill Input with LRU Cache & Debounce  
+
+## 💾 Dummy Data Sample
+
+```json
+[
+  { "id": 1, "name": "React Query" },
+  { "id": 2, "name": "React Hooks" },
+  ...
+  { "id": 60, "name": "Tailwind CSS Interview Questions" }
+]
+
+---
 
