@@ -2,7 +2,7 @@
 
 ## Project info
 
-**Live Deployment URL:** [Add your live deployment URL here]
+**Live Deployment URL:** recat-frontend-adkm7vv78-mulinti-rohith-naidus-projects.vercel.app
 
 ## How can I edit this code?
 
