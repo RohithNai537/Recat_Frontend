@@ -47,17 +47,17 @@ You’ll need **Node.js** and **npm** installed. We recommend using [nvm](https:
 
 ## 🖥️ Local Setup
 
-#  Clone the repo
-# `git clone https://github.com/RohithNai537/Recat_Frontend.git`
+**Clone the repo**
+`git clone https://github.com/RohithNai537/Recat_Frontend.git`
 
-#  Navigate into the project
-# `cd React_Frontend`
+**Navigate into the project**
+`cd React_Frontend`
 
-#  Install dependencies
- # `npm install`
+**Install dependencies**
+  `npm install`
 
-#  Start dev server
- # `npm run dev`
+**Start dev server**
+ `npm run dev`
 
 
 
