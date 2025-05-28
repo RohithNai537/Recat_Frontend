@@ -47,16 +47,16 @@ You’ll need **Node.js** and **npm** installed. We recommend using [nvm](https:
 
 ## 🖥️ Local Setup
 
-# 1️⃣ Clone the repo
-'git clone https://github.com/RohithNai537/Recat_Frontend.git`
+#  Clone the repo
+# `git clone https://github.com/RohithNai537/Recat_Frontend.git`
 
-# 2️⃣ Navigate into the project
+#  Navigate into the project
 # `cd React_Frontend`
 
-# 3️⃣ Install dependencies
+#  Install dependencies
  # `npm install`
 
-# 4️⃣ Start dev server
+#  Start dev server
  # `npm run dev`
 
 
@@ -112,6 +112,7 @@ Contributions welcome! 🙌
 
 **Name:** Mulinti Rohith Naidu 
 **Email:** mulintirohan159@gmail.com
+
 **Project:** Frontend -Autofill Input with LRU Cache & Debounce  
 
 ## 💾 Dummy Data Sample
