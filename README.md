@@ -51,13 +51,13 @@ You’ll need **Node.js** and **npm** installed. We recommend using [nvm](https:
 'git clone https://github.com/RohithNai537/Recat_Frontend.git`
 
 # 2️⃣ Navigate into the project
-`cd React_Frontend`
+# `cd React_Frontend`
 
 # 3️⃣ Install dependencies
-`npm install`
+ # `npm install`
 
 # 4️⃣ Start dev server
-'npm run dev`
+ # `npm run dev`
 
 
 
@@ -124,5 +124,4 @@ Contributions welcome! 🙌
   { "id": 60, "name": "Tailwind CSS Interview Questions" }
 ]
 
----
 
